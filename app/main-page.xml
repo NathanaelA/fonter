@@ -1,0 +1,31 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd">
+    <DockLayout stretchLastChild="true">
+        <Label dock="bottom" text="Sample  (c) http://Master-Technology.com" class="copyright"/>
+        <StackLayout>
+            <Label text="Lobster Font - Copyright (c) 2010 by Pablo Impallari" class="normal Lobster" textWrap="true"/>
+            <Label text="Indie Flower - Copyright (c) 2010, Kimberly Geswein" class="normal IndieFlower" textWrap="true"/>
+            <Label text="Josefin Sans - Copyright (c) 2010 by Typemade" class="normal JosefinSans" textWrap="true"/>
+            <StackLayout orientation="horizontal">
+                <Label text="Material Design Icons by Google" class="normal"/>
+                <Label android:text="&#xe859;" ios:text="&#xe325;" class="larger Material"/>
+            </StackLayout>
+            <StackLayout orientation="horizontal">
+                <Label text="Font Awesome Icons by Dave Gandy" class="normal"/>
+                <Label android:text=" &#xf17b; " ios:text=" &#xf179; " class="larger FontAwesome"/>
+            </StackLayout>
+            <StackLayout orientation="horizontal">
+                <Label text="Material Design Iconic by Sergey Kupletsky" class="normal"/>
+                <Label android:text="&#xf33b;" ios:text="&#xf33c;" class="larger MaterialIconic"/>
+            </StackLayout>
+            <GridLayout rows="auto,auto,auto" columns="auto,auto,auto">
+                <Label text="Font Awesome Duotone Icons" class="normal"/>
+
+                <Label col="1" text="&#xf6ae;" class="larger fad " />
+                <Label col="1" text="&#x10f6ae;" class="larger fad green fad-op" />
+                <Label col="2" text="&#xf520;" class="larger fad blue" />
+                <Label col="2" text="&#x10f520;" class="larger fad red fad-op" />
+            </GridLayout>
+
+        </StackLayout>
+    </DockLayout>
+</Page>

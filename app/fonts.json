@@ -1,0 +1,41 @@
+"Fonts" : [
+{
+  "name": "Lobster",
+  "designer": "Pablo Impallari",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 65284,
+  "filename": "Lobster-Regular.ttf",
+  "postScriptName": "Lobster-Regular",
+  "fullName": "Lobster",
+  "copyright": "Copyright (c) 2010 by Pablo Impallari (www.impallari.com)",
+  "dateAdded": "2010-05-17"
+},
+{
+"name": "Indie Flower",
+"designer": "Kimberly Geswein",
+"license": "OFL",
+"visibility": "External",
+"category": "Handwriting",
+"size": 33416,
+"filename": "IndieFlower.ttf",
+"postScriptName": "IndieFlower",
+"fullName": "Indie Flower",
+"copyright": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com kimberlygeswein@gmail.com)",
+"dateAdded": "2011-03-09"
+},
+{
+"name": "Josefin Sans",
+"designer": "Santiago Orozco",
+"license": "OFL",
+"visibility": "External",
+"category": "Sans Serif",
+"size": 43171,
+"filename": "JosefinSans-Regular.ttf",
+"postScriptName": "JosefinSans",
+"fullName": "Josefin Sans",
+"copyright": "Copyright (c) 2010 by Typemade (hi@typemade.mx). All rights reserved.",
+"dateAdded": "2010-11-17"
+}
+]
